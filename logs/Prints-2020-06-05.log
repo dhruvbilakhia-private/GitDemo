@@ -1,0 +1,7 @@
+14:26:08.856 [TestNG-tests-1] INFO  resources.base - Valid User
+14:26:11.421 [TestNG-tests-1] INFO  resources.base - Home page - Click on Login Button
+14:26:13.459 [TestNG-tests-1] INFO  resources.base - Home page - Validation Passed
+14:26:15.720 [TestNG-tests-1] INFO  resources.base - Home page - URL is Hit
+14:26:28.760 [TestNG-tests-1] INFO  resources.base - Home page - Pop Up Handled
+14:26:33.079 [TestNG-tests-1] INFO  resources.base - Home page - Clicked on Login link
+14:26:38.249 [TestNG-tests-1] INFO  resources.base - Home page - User name Entered

@@ -1,0 +1,7 @@
+00:00:21.415 [TestNG-tests-1] INFO  resources.base - Home page - Pop Up Handled
+00:00:47.053 [TestNG-tests-1] INFO  resources.base - Home page - Clicked on Login link
+00:00:52.346 [TestNG-tests-1] INFO  resources.base - Home page - User name Entered
+00:00:52.570 [TestNG-tests-1] INFO  resources.base - Valid User
+00:00:56.915 [TestNG-tests-1] INFO  resources.base - Home page - Click on Login Button
+00:00:58.984 [TestNG-tests-1] INFO  resources.base - Home page - Validation Passed
+00:01:01.179 [TestNG-tests-1] INFO  resources.base - Home page - URL is Hit

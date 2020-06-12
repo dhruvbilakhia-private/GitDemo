@@ -1,0 +1,6 @@
+00:01:14.211 [TestNG-tests-1] INFO  resources.base - Home page - Pop Up Handled
+00:01:17.392 [TestNG-tests-1] INFO  resources.base - Home page - Clicked on Login link
+00:01:22.718 [TestNG-tests-1] INFO  resources.base - Home page - User name Entered
+00:01:22.840 [TestNG-tests-1] INFO  resources.base - Invalid User
+00:01:25.110 [TestNG-tests-1] INFO  resources.base - Home page - Click on Login Button
+00:01:27.189 [TestNG-tests-1] INFO  resources.base - Home page - Validation Passed

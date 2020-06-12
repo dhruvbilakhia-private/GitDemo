@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 112.782 s <<< FAILURE! - in TestSuite
+Academy.E2EProject1.validateTitle.validateTitleMethod  Time elapsed: 33.623 s  <<< FAILURE!
+java.lang.AssertionError: expected [FEATURED COURSES123] but found [FEATURED COURSES]
+	at Academy.E2EProject1.validateTitle.validateTitleMethod(validateTitle.java:33)
+
